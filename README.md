@@ -116,7 +116,7 @@ A cybersecurity-focused platform for analyzing uploaded data, identifying vulner
   GitHub
 </a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://dhananjay-max-portfolio.netlify.app/">
+<a href="https://dhananjay-tech-portfolio.netlify.app/">
   Portfolio
 </a>
 
